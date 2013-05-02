@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/cyanobacteria/selection/Arthrospira_platensis_Paraca</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</BlastOutput_query-def>
+  <BlastOutput_query-len>806</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</Iteration_query-def>
+      <Iteration_query-len>806</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1207</Hit_id>
+          <Hit_def>@Arthrospira_platensis_Paraca@ 646128927 AplaP_010100006173 hypothetical protein [Arthrospira platensis Paraca]</Hit_def>
+          <Hit_accession>1207</Hit_accession>
+          <Hit_len>1102</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.8018</Hsp_bit-score>
+              <Hsp_score>68</Hsp_score>
+              <Hsp_evalue>0.54094</Hsp_evalue>
+              <Hsp_query-from>701</Hsp_query-from>
+              <Hsp_query-to>733</Hsp_query-to>
+              <Hsp_hit-from>324</Hsp_hit-from>
+              <Hsp_hit-to>355</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>21</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>33</Hsp_align-len>
+              <Hsp_qseq>WQVKAGSIFDNILICDDPEYARSIVDDYFAQHR</Hsp_qseq>
+              <Hsp_hseq>WQLRREAV-DNLAITDDPEIIRSLLRLMREQHR</Hsp_hseq>
+              <Hsp_midline>WQ++  ++ DN+ I DDPE  RS++     QHR</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3083</Hit_id>
+          <Hit_def>@Arthrospira_platensis_Paraca@ 646130813 AplaP_010100015718 response regulator receiver modulated diguanylate cyclase [Arthrospira platensis Paraca]</Hit_def>
+          <Hit_accession>3083</Hit_accession>
+          <Hit_len>132</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.335</Hsp_bit-score>
+              <Hsp_score>59</Hsp_score>
+              <Hsp_evalue>2.78137</Hsp_evalue>
+              <Hsp_query-from>752</Hsp_query-from>
+              <Hsp_query-to>794</Hsp_query-to>
+              <Hsp_hit-from>12</Hsp_hit-from>
+              <Hsp_hit-to>54</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>15</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>43</Hsp_align-len>
+              <Hsp_qseq>SYEHGHTNRCLQEARKAREEGERRRKERDHRYGDRRRRYKRPN</Hsp_qseq>
+              <Hsp_hseq>TYGHQEGDRCLQEVAQALARSIRRPGDLVARYGGEEFAIILPN</Hsp_hseq>
+              <Hsp_midline>+Y H   +RCLQE  +A     RR  +   RYG        PN</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|2334</Hit_id>
+          <Hit_def>@Arthrospira_platensis_Paraca@ 646130063 AplaP_010100011931 leucyl-tRNA synthetase [Arthrospira platensis Paraca]</Hit_def>
+          <Hit_accession>2334</Hit_accession>
+          <Hit_len>859</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.7202</Hsp_bit-score>
+              <Hsp_score>60</Hsp_score>
+              <Hsp_evalue>3.68465</Hsp_evalue>
+              <Hsp_query-from>320</Hsp_query-from>
+              <Hsp_query-to>401</Hsp_query-to>
+              <Hsp_hit-from>687</Hsp_hit-from>
+              <Hsp_hit-to>771</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>23</Hsp_identity>
+              <Hsp_positive>40</Hsp_positive>
+              <Hsp_gaps>3</Hsp_gaps>
+              <Hsp_align-len>85</Hsp_align-len>
+              <Hsp_qseq>TRKVVVENISSALSILKSRTLAALASVVEELEKVLEFNNLLVSLKSHSEADQFACGVGDESDFERRMDD-LKLL--YRAYVTDAL</Hsp_qseq>
+              <Hsp_hseq>STKSTPENLNKAEKDLRRAINNAIKEVTEDLEGDYQFNTAVSEMMKLSNALSDATPIQDSPIYQEGIDTLLKLLAPFSPHITEDL</Hsp_hseq>
+              <Hsp_midline>+ K   EN++ A   L+     A+  V E+LE   +FN  +  +   S A   A  + D   ++  +D  LKLL  +  ++T+ L</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1912</Hit_id>
+          <Hit_def>@Arthrospira_platensis_Paraca@ 646129638 AplaP_010100009775 hypothetical protein [Arthrospira platensis Paraca]</Hit_def>
+          <Hit_accession>1912</Hit_accession>
+          <Hit_len>173</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>26.9498</Hsp_bit-score>
+              <Hsp_score>58</Hsp_score>
+              <Hsp_evalue>3.97683</Hsp_evalue>
+              <Hsp_query-from>36</Hsp_query-from>
+              <Hsp_query-to>116</Hsp_query-to>
+              <Hsp_hit-from>36</Hsp_hit-from>
+              <Hsp_hit-to>121</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>22</Hsp_identity>
+              <Hsp_positive>37</Hsp_positive>
+              <Hsp_gaps>5</Hsp_gaps>
+              <Hsp_align-len>86</Hsp_align-len>
+              <Hsp_qseq>PFIESNLRQLGYTGP---ITITAVGLLSDVPEQILEALFSSGVSLSNVPYGTRDV-ATLVLFRTFDFPPP-ASFMVISHPEDAAVF</Hsp_qseq>
+              <Hsp_hseq>PGTSGSVAQIGVTTKPVEVDVIALGMRGRNPQDFLKAGEKTNLIIRNQPYGQVDIKAVEFLPRTIPVTQPDGSLRALPDPTADFIF</Hsp_hseq>
+              <Hsp_midline>P    ++ Q+G T     + + A+G+    P+  L+A   + + + N PYG  D+ A   L RT     P  S   +  P    +F</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3829</Hit_id>
+          <Hit_def>@Arthrospira_platensis_Paraca@ 646131565 AplaP_010100019585 hypothetical protein [Arthrospira platensis Paraca]</Hit_def>
+          <Hit_accession>3829</Hit_accession>
+          <Hit_len>95</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>25.409</Hsp_bit-score>
+              <Hsp_score>54</Hsp_score>
+              <Hsp_evalue>7.24938</Hsp_evalue>
+              <Hsp_query-from>246</Hsp_query-from>
+              <Hsp_query-to>321</Hsp_query-to>
+              <Hsp_hit-from>13</Hsp_hit-from>
+              <Hsp_hit-to>86</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>20</Hsp_identity>
+              <Hsp_positive>32</Hsp_positive>
+              <Hsp_gaps>2</Hsp_gaps>
+              <Hsp_align-len>76</Hsp_align-len>
+              <Hsp_qseq>RQRLETGEREGDAEQRRKESISVITSCMLPVQAFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQLAEDLFREHTR</Hsp_qseq>
+              <Hsp_hseq>RQLLETENIPFLSEQQQSEVLDRIKQAQEEVNTAKTLFHATGCQAGIEMKVLMPWHQLL--TDCWRIANRFRLESK</Hsp_hseq>
+              <Hsp_midline>RQ LET      +EQ++ E +  I      V     L + +    G     L+PW ++L  TD     + FR  ++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>5370</Statistics_db-num>
+          <Statistics_db-len>1429471</Statistics_db-len>
+          <Statistics_hsp-len>91</Statistics_hsp-len>
+          <Statistics_eff-space>672672715</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

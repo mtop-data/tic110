@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/cyanobacteria/selection/Nostoc_sp_PCC_7120</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|332189936|gb|AEE28057.1| translocon at the inner envelope membrane of chloroplasts 110 [Arabidopsis thaliana]</BlastOutput_query-def>
+  <BlastOutput_query-len>1016</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>gi|332189936|gb|AEE28057.1| translocon at the inner envelope membrane of chloroplasts 110 [Arabidopsis thaliana]</Iteration_query-def>
+      <Iteration_query-len>1016</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1604</Hit_id>
+          <Hit_def>@Nostoc_sp_PCC_7120@ 637231661 alr1295 hypothetical protein [Nostoc sp. PCC 7120]</Hit_def>
+          <Hit_accession>1604</Hit_accession>
+          <Hit_len>270</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.261</Hsp_bit-score>
+              <Hsp_score>64</Hsp_score>
+              <Hsp_evalue>2.01697</Hsp_evalue>
+              <Hsp_query-from>133</Hsp_query-from>
+              <Hsp_query-to>179</Hsp_query-to>
+              <Hsp_hit-from>37</Hsp_hit-from>
+              <Hsp_hit-to>84</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>30</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>48</Hsp_align-len>
+              <Hsp_qseq>GAVVYALNSAVPEVAAISLHNY-VAEFEDPASVTKDDVEKIADRYGVN</Hsp_qseq>
+              <Hsp_hseq>GALLEGIHLKPPLISAIDVYDLTVQKFEVPAESSTKDLQNLSARFAIN</Hsp_hseq>
+              <Hsp_midline>GA++  ++   P ++AI +++  V +FE PA  +  D++ ++ R+ +N</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3070</Hit_id>
+          <Hit_def>@Nostoc_sp_PCC_7120@ 637233148 alr2764 glycerol dehydrogenase [Nostoc sp. PCC 7120]</Hit_def>
+          <Hit_accession>3070</Hit_accession>
+          <Hit_len>396</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.261</Hsp_bit-score>
+              <Hsp_score>64</Hsp_score>
+              <Hsp_evalue>2.3711</Hsp_evalue>
+              <Hsp_query-from>748</Hsp_query-from>
+              <Hsp_query-to>836</Hsp_query-to>
+              <Hsp_hit-from>243</Hsp_hit-from>
+              <Hsp_hit-to>348</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>26</Hsp_identity>
+              <Hsp_positive>45</Hsp_positive>
+              <Hsp_gaps>17</Hsp_gaps>
+              <Hsp_align-len>106</Hsp_align-len>
+              <Hsp_qseq>DSEYLLLNQLGGILGLSSKEIVN--IHVGLAEQA---------------FRQQAEVILADGQLTKARVEQLDELQKQVGLPQPQAEKVIKNITTTKMANAIETAVN</Hsp_qseq>
+              <Hsp_hseq>DATVLLAGVIGGLGGAQCRTVAAHAVHNGLTHIAGHSSIHGEKVAYGILVQLRLEEMVQGNQLAAASRQQLLKFYAEIGLPQKLGDLGLGNITLGELQTAAEIALT</Hsp_hseq>
+              <Hsp_midline>D+  LL   +GG+ G   + +    +H GL   A                + + E ++   QL  A  +QL +   ++GLPQ   +  + NIT  ++  A E A+ </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1476</Hit_id>
+          <Hit_def>@Nostoc_sp_PCC_7120@ 637231533 alr1167 lysin [Nostoc sp. PCC 7120]</Hit_def>
+          <Hit_accession>1476</Hit_accession>
+          <Hit_len>242</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.7202</Hsp_bit-score>
+              <Hsp_score>60</Hsp_score>
+              <Hsp_evalue>5.53658</Hsp_evalue>
+              <Hsp_query-from>155</Hsp_query-from>
+              <Hsp_query-to>228</Hsp_query-to>
+              <Hsp_hit-from>45</Hsp_hit-from>
+              <Hsp_hit-to>117</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>23</Hsp_identity>
+              <Hsp_positive>37</Hsp_positive>
+              <Hsp_gaps>3</Hsp_gaps>
+              <Hsp_align-len>75</Hsp_align-len>
+              <Hsp_qseq>VAEFEDPASVTKDDVEKIADRYGVNKGDEAFQAEICDIYCRYVTSVLPTEGQSL-KGDEVAKIVKFKNALGIDEP</Hsp_qseq>
+              <Hsp_hseq>VKQFQQRQSITPDGVVEINTRNALNKAIQR-QIEIAKLYGG-ASGKLPLPGVNLIKEFEGCKLIAYPDPLSKGKP</Hsp_hseq>
+              <Hsp_midline>V +F+   S+T D V +I  R  +NK  +  Q EI  +Y    +  LP  G +L K  E  K++ + + L   +P</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|546</Hit_id>
+          <Hit_def>@Nostoc_sp_PCC_7120@ 637230594 alr0236 hypothetical protein [Nostoc sp. PCC 7120]</Hit_def>
+          <Hit_accession>546</Hit_accession>
+          <Hit_len>352</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.7202</Hsp_bit-score>
+              <Hsp_score>60</Hsp_score>
+              <Hsp_evalue>5.89236</Hsp_evalue>
+              <Hsp_query-from>118</Hsp_query-from>
+              <Hsp_query-to>142</Hsp_query-to>
+              <Hsp_hit-from>187</Hsp_hit-from>
+              <Hsp_hit-to>211</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>11</Hsp_identity>
+              <Hsp_positive>16</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>25</Hsp_align-len>
+              <Hsp_qseq>RNIAFGGAAVAGAAGGAVVYALNSA</Hsp_qseq>
+              <Hsp_hseq>RNIPFAGAAIAASSNATLSYSLGYA</Hsp_hseq>
+              <Hsp_midline>RNI F GAA+A ++   + Y+L  A</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|6060</Hit_id>
+          <Hit_def>@Nostoc_sp_PCC_7120@ 637236185 all7317 hypothetical protein [Nostoc sp. PCC 7120]</Hit_def>
+          <Hit_accession>6060</Hit_accession>
+          <Hit_len>246</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.335</Hsp_bit-score>
+              <Hsp_score>59</Hsp_score>
+              <Hsp_evalue>6.37039</Hsp_evalue>
+              <Hsp_query-from>560</Hsp_query-from>
+              <Hsp_query-to>613</Hsp_query-to>
+              <Hsp_hit-from>89</Hsp_hit-from>
+              <Hsp_hit-to>144</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>19</Hsp_identity>
+              <Hsp_positive>24</Hsp_positive>
+              <Hsp_gaps>2</Hsp_gaps>
+              <Hsp_align-len>56</Hsp_align-len>
+              <Hsp_qseq>EICGTIFEKVVRDAISSGVDGYDAETRKSVRKAAHGLR--LSRETAMSIASKAVRR</Hsp_qseq>
+              <Hsp_hseq>ENAGTYFAQVIRGAASSGTISYDFAVSATAPNSTSGFSNLLPREFELGNLSGDVSR</Hsp_hseq>
+              <Hsp_midline>E  GT F +V+R A SSG   YD     +   +  G    L RE  +   S  V R</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>6130</Statistics_db-num>
+          <Statistics_db-len>1969094</Statistics_db-len>
+          <Statistics_hsp-len>96</Statistics_hsp-len>
+          <Statistics_eff-space>1270164880</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
