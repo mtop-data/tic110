@@ -52,6 +52,118 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|9290</Hit_id>
+          <Hit_def>@Ricinus_communis@_29739.m003676|PACid:16807455 </Hit_def>
+          <Hit_accession>9290</Hit_accession>
+          <Hit_len>593</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>33.4982</Hsp_bit-score>
+              <Hsp_score>75</Hsp_score>
+              <Hsp_evalue>0.579117</Hsp_evalue>
+              <Hsp_query-from>213</Hsp_query-from>
+              <Hsp_query-to>279</Hsp_query-to>
+              <Hsp_hit-from>372</Hsp_hit-from>
+              <Hsp_hit-to>442</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>21</Hsp_identity>
+              <Hsp_positive>34</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>71</Hsp_align-len>
+              <Hsp_qseq>VAKIVKFKNALGIDEPDAAAMHMEIGRRIFRQ-RLETGEREGDAEQRRAFMRLVYVSA---LVFGDASSFL</Hsp_qseq>
+              <Hsp_hseq>IAKAMGFRNTAGPQKHQAVAVRVQADRSIFLNCRFEGYQDTLYAQTHRQFYRSCVISGTIDFIFGDATAIF</Hsp_hseq>
+              <Hsp_midline>+AK + F+N  G  +  A A+ ++  R IF   R E  +    A+  R F R   +S     +FGDA++  </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|11850</Hit_id>
+          <Hit_def>@Ricinus_communis@_29827.m002582|PACid:16810015 </Hit_def>
+          <Hit_accession>11850</Hit_accession>
+          <Hit_len>311</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>5.89867</Hsp_evalue>
+              <Hsp_query-from>426</Hsp_query-from>
+              <Hsp_query-to>504</Hsp_query-to>
+              <Hsp_hit-from>228</Hsp_hit-from>
+              <Hsp_hit-to>302</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>19</Hsp_identity>
+              <Hsp_positive>42</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>79</Hsp_align-len>
+              <Hsp_qseq>LYRAYVTDALSGGRLEENKLVAMSQLRNILGLGKREAEAISVDVTSKSYRKRLANAVSSGDLEAQDSKAKYLQKLCEEL</Hsp_qseq>
+              <Hsp_hseq>VFHHYILDALSGPPMEEVVLMEEQQHRNLTAVG---SKSLPVSWKQGRWKEARTKATEHGE-DSFSMEYEEIGELCEKI</Hsp_hseq>
+              <Hsp_midline>++  Y+ DALSG  +EE  L+   Q RN+  +G   ++++ V      +++    A   G+ ++   + + + +LCE++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|9644</Hit_id>
+          <Hit_def>@Ricinus_communis@_29751.m001800|PACid:16807809 </Hit_def>
+          <Hit_accession>9644</Hit_accession>
+          <Hit_len>1335</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.4166</Hsp_bit-score>
+              <Hsp_score>67</Hsp_score>
+              <Hsp_evalue>6.3754</Hsp_evalue>
+              <Hsp_query-from>469</Hsp_query-from>
+              <Hsp_query-to>514</Hsp_query-to>
+              <Hsp_hit-from>550</Hsp_hit-from>
+              <Hsp_hit-to>599</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>17</Hsp_identity>
+              <Hsp_positive>28</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>50</Hsp_align-len>
+              <Hsp_qseq>VTSKSYRKRLANAVSSGDLEAQDS----KAKYLQKLCEELHFDAQKAGAI</Hsp_qseq>
+              <Hsp_hseq>VAKDAHKKKNTSAVSSGSLALRDGAHGKKREYLNRNKQNKHFGSQNAGSF</Hsp_hseq>
+              <Hsp_midline>V   +++K+  +AVSSG L  +D     K +YL +  +  HF +Q AG+ </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|21568</Hit_id>
+          <Hit_def>@Ricinus_communis@_30146.m003613|PACid:16819733 </Hit_def>
+          <Hit_accession>21568</Hit_accession>
+          <Hit_len>789</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.6462</Hsp_bit-score>
+              <Hsp_score>65</Hsp_score>
+              <Hsp_evalue>9.36949</Hsp_evalue>
+              <Hsp_query-from>308</Hsp_query-from>
+              <Hsp_query-to>410</Hsp_query-to>
+              <Hsp_hit-from>590</Hsp_hit-from>
+              <Hsp_hit-to>686</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>24</Hsp_identity>
+              <Hsp_positive>43</Hsp_positive>
+              <Hsp_gaps>6</Hsp_gaps>
+              <Hsp_align-len>103</Hsp_align-len>
+              <Hsp_qseq>RLKLVGRDINVENLVDLRKSQLSFKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAAKSLASVVEELEKVLEFNNLLVSLKSHSEADQFARGVGPISLI</Hsp_qseq>
+              <Hsp_hseq>RLKIIHRDLKAGNI--LLDSKMNPKISDFGMARIFGSEETKANTNTVVGTYGYMSPEY----AMEGIFSTKSDVFSFGVLLLEIVSGKKNNSFQYSDGPLSLI</Hsp_hseq>
+              <Hsp_midline>RLK++ RD+   N+  L  S+++ K+SD     +F     K     +      +        ++  +      V  F  LL+ + S  + + F    GP+SLI</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>

@@ -52,6 +52,90 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|5243</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_146.55|PACid:16409146 </Hit_def>
+          <Hit_accession>5243</Hit_accession>
+          <Hit_len>796</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.187</Hsp_bit-score>
+              <Hsp_score>69</Hsp_score>
+              <Hsp_evalue>2.99019</Hsp_evalue>
+              <Hsp_query-from>654</Hsp_query-from>
+              <Hsp_query-to>708</Hsp_query-to>
+              <Hsp_hit-from>324</Hsp_hit-from>
+              <Hsp_hit-to>380</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>20</Hsp_identity>
+              <Hsp_positive>26</Hsp_positive>
+              <Hsp_gaps>6</Hsp_gaps>
+              <Hsp_align-len>59</Hsp_align-len>
+              <Hsp_qseq>KGESSD----KAPEEDPVQEKEEDDEDEEWGSLESLRKTRPDKELAEKMGKPGQTEITL</Hsp_qseq>
+              <Hsp_hseq>RGNSDDSVDNNGSEESPV--TEEKLTKEEWQAINKLLSYQPDEEMPSHSGKDMQNMIQF</Hsp_hseq>
+              <Hsp_midline>+G S D       EE PV   EE    EEW ++  L   +PD+E+    GK  Q  I  </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|11303</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_263.13|PACid:16415376 </Hit_def>
+          <Hit_accession>11303</Hit_accession>
+          <Hit_len>154</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.6462</Hsp_bit-score>
+              <Hsp_score>65</Hsp_score>
+              <Hsp_evalue>3.57641</Hsp_evalue>
+              <Hsp_query-from>341</Hsp_query-from>
+              <Hsp_query-to>446</Hsp_query-to>
+              <Hsp_hit-from>29</Hsp_hit-from>
+              <Hsp_hit-to>129</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>33</Hsp_identity>
+              <Hsp_positive>49</Hsp_positive>
+              <Hsp_gaps>23</Hsp_gaps>
+              <Hsp_align-len>115</Hsp_align-len>
+              <Hsp_qseq>LFREHTRKVVVENISSALSILKSRTRAAKSLASVVEELEKVLEFNNLLVSLKSHSEADQFARGVG-----PISLIGD----ESDFERRMDDLKLLYRAYVTDALSGGRLEENKLV</Hsp_qseq>
+              <Hsp_hseq>LFREITR---ISNHSLALTTHAMDVGASTPFLWAFEEREKLLEFYERVSGARMHAS---FIRPGGVAQDLPLGLCRDIDSFTQQFASRIDELE--------EMSTGNRIWKQRLV</Hsp_hseq>
+              <Hsp_midline>LFRE TR   + N S AL+       A+       EE EK+LEF   +   + H+    F R  G     P+ L  D       F  R+D+L+        +  +G R+ + +LV</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1259</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_104.85|PACid:16405095 </Hit_def>
+          <Hit_accession>1259</Hit_accession>
+          <Hit_len>562</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>5.19136</Hsp_evalue>
+              <Hsp_query-from>840</Hsp_query-from>
+              <Hsp_query-to>908</Hsp_query-to>
+              <Hsp_hit-from>224</Hsp_hit-from>
+              <Hsp_hit-to>296</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>23</Hsp_identity>
+              <Hsp_positive>37</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>73</Hsp_align-len>
+              <Hsp_qseq>LNIKQIRELKEANVSLDSMIAVSLREK----LFKKTVSDIFSSGTGEFDETEVYQTIPSDLSIDVEKAKRVVH</Hsp_qseq>
+              <Hsp_hseq>LNKKLGRELSEAKASLLKAVKELESEKRVRVVIEQVCDELARDLTGDKAQVEELKREPSKVNIDVEKEREMMH</Hsp_hseq>
+              <Hsp_midline>LN K  REL EA  SL   +     EK    + ++   ++    TG+  + E  +  PS ++IDVEK + ++H</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>

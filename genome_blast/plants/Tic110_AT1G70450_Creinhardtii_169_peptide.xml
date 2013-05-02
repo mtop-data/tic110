@@ -71,6 +71,34 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|11027</Hit_id>
+          <Hit_def>@Chlamydomonas_reinhardtii@_02.g138650.t1.1|PACid:19869337 </Hit_def>
+          <Hit_accession>11027</Hit_accession>
+          <Hit_len>753</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>35.4242</Hsp_bit-score>
+              <Hsp_score>80</Hsp_score>
+              <Hsp_evalue>0.173316</Hsp_evalue>
+              <Hsp_query-from>331</Hsp_query-from>
+              <Hsp_query-to>405</Hsp_query-to>
+              <Hsp_hit-from>9</Hsp_hit-from>
+              <Hsp_hit-to>81</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>26</Hsp_identity>
+              <Hsp_positive>37</Hsp_positive>
+              <Hsp_gaps>6</Hsp_gaps>
+              <Hsp_align-len>77</Hsp_align-len>
+              <Hsp_qseq>FKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAA--KSLASVVEELEKVLEFNNLLVSLKSHSEADQFARGVG</Hsp_qseq>
+              <Hsp_hseq>FKLSPELIEDIAGRLHRNEVVTN----LKLLNSKAAAALRGSYSTIRLEHRKPVPYRNVYIACAETWPGDAFARHWG</Hsp_hseq>
+              <Hsp_midline>FKLS EL ED+     R  VV N    L +L S+  AA   S +++  E  K + + N+ ++       D FAR  G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>

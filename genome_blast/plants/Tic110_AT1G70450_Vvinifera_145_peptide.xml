@@ -52,6 +52,118 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|12040</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01018858001|PACid:17828665 </Hit_def>
+          <Hit_accession>12040</Hit_accession>
+          <Hit_len>663</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>35.4242</Hsp_bit-score>
+              <Hsp_score>80</Hsp_score>
+              <Hsp_evalue>0.139211</Hsp_evalue>
+              <Hsp_query-from>912</Hsp_query-from>
+              <Hsp_query-to>983</Hsp_query-to>
+              <Hsp_hit-from>366</Hsp_hit-from>
+              <Hsp_hit-to>442</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>28</Hsp_identity>
+              <Hsp_positive>42</Hsp_positive>
+              <Hsp_gaps>9</Hsp_gaps>
+              <Hsp_align-len>79</Hsp_align-len>
+              <Hsp_qseq>QSRLSNSLVQAVALLRQRNSKGVVL------SLNDLLACDKAVPAEP-MSWEVSEELSDLYAIYSKSDPKPAPEKVLRL</Hsp_qseq>
+              <Hsp_hseq>RSRPVESIVREVAELWKEGVKEVMLLGQNVNSYNDASGFDKEV--EPGANWKLSEEFPEMRFRYTSPHPKDFPDELLYL</Hsp_hseq>
+              <Hsp_midline>+SR   S+V+ VA L +   K V+L      S ND    DK V  EP  +W++SEE  ++   Y+   PK  P+++L L</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|23233</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01034351001|PACid:17839858 </Hit_def>
+          <Hit_accession>23233</Hit_accession>
+          <Hit_len>345</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.9574</Hsp_bit-score>
+              <Hsp_score>71</Hsp_score>
+              <Hsp_evalue>1.63824</Hsp_evalue>
+              <Hsp_query-from>509</Hsp_query-from>
+              <Hsp_query-to>572</Hsp_query-to>
+              <Hsp_hit-from>187</Hsp_hit-from>
+              <Hsp_hit-to>246</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>19</Hsp_identity>
+              <Hsp_positive>33</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>64</Hsp_align-len>
+              <Hsp_qseq>QKAGAIHEEIYRQKLQQCVTDGELSDDNVAALLRLRVMLCIPQQTVDTAHAEICGTIFEKVVRD</Hsp_qseq>
+              <Hsp_hseq>QKTGFSREEIFRKYIRYALNEKPFNPEMVATLIQFRKASLLD----DSQVAEILNEISRRIVRD</Hsp_hseq>
+              <Hsp_midline>QK G   EEI+R+ ++  + +   + + VA L++ R    +     D+  AEI   I  ++VRD</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|15903</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01024285001|PACid:17832528 </Hit_def>
+          <Hit_accession>15903</Hit_accession>
+          <Hit_len>231</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.4166</Hsp_bit-score>
+              <Hsp_score>67</Hsp_score>
+              <Hsp_evalue>4.02698</Hsp_evalue>
+              <Hsp_query-from>775</Hsp_query-from>
+              <Hsp_query-to>866</Hsp_query-to>
+              <Hsp_hit-from>46</Hsp_hit-from>
+              <Hsp_hit-to>146</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>31</Hsp_identity>
+              <Hsp_positive>44</Hsp_positive>
+              <Hsp_gaps>9</Hsp_gaps>
+              <Hsp_align-len>101</Hsp_align-len>
+              <Hsp_qseq>LAEQAFRQQAEVILADGQL---TKARVEQLDELQKQVG-LPQPQAEKV----IKNITTTKMANAIETA-VNQGRLNIKQIRELKEANVSLDSMIAVSLREK</Hsp_qseq>
+              <Hsp_hseq>LTSNPVHQKVPVLLHNGNPIVESLVIIEYIDENWKQNPILPQDPHERAKARFWANFIEQKITEATRTALVTEGEQQKKVVKELKEAMEVLEGEAAAKLNDK</Hsp_hseq>
+              <Hsp_midline>L      Q+  V+L +G     +   +E +DE  KQ   LPQ   E+       N    K+  A  TA V +G    K ++ELKEA   L+   A  L +K</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|15902</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01024284001|PACid:17832527 </Hit_def>
+          <Hit_accession>15902</Hit_accession>
+          <Hit_len>231</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>5.43673</Hsp_evalue>
+              <Hsp_query-from>775</Hsp_query-from>
+              <Hsp_query-to>866</Hsp_query-to>
+              <Hsp_hit-from>46</Hsp_hit-from>
+              <Hsp_hit-to>146</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>31</Hsp_identity>
+              <Hsp_positive>44</Hsp_positive>
+              <Hsp_gaps>9</Hsp_gaps>
+              <Hsp_align-len>101</Hsp_align-len>
+              <Hsp_qseq>LAEQAFRQQAEVILADGQ---LTKARVEQLDELQKQVG-LPQPQAEKV----IKNITTTKMANAIETA-VNQGRLNIKQIRELKEANVSLDSMIAVSLREK</Hsp_qseq>
+              <Hsp_hseq>LTSNPVHQKVPVLLHNGNPIVESLVIIEYIDENWKQNPILPQDPHERAKARFWANFIEQKITEATRTALVTEGEQQEKVVKELKEAMEVLEGEAAAKLNDK</Hsp_hseq>
+              <Hsp_midline>L      Q+  V+L +G     +   +E +DE  KQ   LPQ   E+       N    K+  A  TA V +G    K ++ELKEA   L+   A  L +K</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>

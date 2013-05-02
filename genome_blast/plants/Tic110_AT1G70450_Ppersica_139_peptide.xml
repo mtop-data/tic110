@@ -52,6 +52,118 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|20749</Hit_id>
+          <Hit_def>@Prunus_persica@_ppa001083m|PACid:17661334 </Hit_def>
+          <Hit_accession>20749</Hit_accession>
+          <Hit_len>913</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>35.8094</Hsp_bit-score>
+              <Hsp_score>81</Hsp_score>
+              <Hsp_evalue>0.164519</Hsp_evalue>
+              <Hsp_query-from>504</Hsp_query-from>
+              <Hsp_query-to>544</Hsp_query-to>
+              <Hsp_hit-from>13</Hsp_hit-from>
+              <Hsp_hit-to>53</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>15</Hsp_identity>
+              <Hsp_positive>29</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>41</Hsp_align-len>
+              <Hsp_qseq>LHFDAQKAGAIHEEIYRQKLQQCVTDGELSDDNVAALLRLR</Hsp_qseq>
+              <Hsp_hseq>LVFGNEKSGSSNEDSYVERLLDCISNGKLSEDRRTAMLELQ</Hsp_hseq>
+              <Hsp_midline>L F  +K+G+ +E+ Y ++L  C+++G+LS+D   A+L L+</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|25512</Hit_id>
+          <Hit_def>@Prunus_persica@_ppa000704m|PACid:17666157 </Hit_def>
+          <Hit_accession>25512</Hit_accession>
+          <Hit_len>1029</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.4166</Hsp_bit-score>
+              <Hsp_score>67</Hsp_score>
+              <Hsp_evalue>6.96306</Hsp_evalue>
+              <Hsp_query-from>96</Hsp_query-from>
+              <Hsp_query-to>210</Hsp_query-to>
+              <Hsp_hit-from>158</Hsp_hit-from>
+              <Hsp_hit-to>262</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>27</Hsp_identity>
+              <Hsp_positive>48</Hsp_positive>
+              <Hsp_gaps>10</Hsp_gaps>
+              <Hsp_align-len>115</Hsp_align-len>
+              <Hsp_qseq>SAVVLAASLATGYGLGLRLAGSRNIAFGGAAVAGAAGGAVVYALNSAVPEVAAISLHNYVAEFEDPASVTKDDVEKIADRYGVNKGDEAFQAEICDIYCRYVTSVLPTEGQSLKG</Hsp_qseq>
+              <Hsp_hseq>TIIILSGCAALSLGLGIKVHGLNE---------GWIDGGSIFIAIILVISVSAVSNYRQNRQF-DKLSKVSDNVQIEAVRGGRRQQISIFDIVVGDVICLKIGDQVPADGLFLDG</Hsp_hseq>
+              <Hsp_midline>+ ++L+   A   GLG+++ G            G   G  ++     V  V+A+S +    +F D  S   D+V+  A R G  +    F   + D+ C  +   +P +G  L G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|22755</Hit_id>
+          <Hit_def>@Prunus_persica@_ppa000001m|PACid:17663368 </Hit_def>
+          <Hit_accession>22755</Hit_accession>
+          <Hit_len>5245</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>8.42751</Hsp_evalue>
+              <Hsp_query-from>274</Hsp_query-from>
+              <Hsp_query-to>336</Hsp_query-to>
+              <Hsp_hit-from>3356</Hsp_hit-from>
+              <Hsp_hit-to>3419</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>20</Hsp_identity>
+              <Hsp_positive>35</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>64</Hsp_align-len>
+              <Hsp_qseq>DASSFLLPWKRVLKVTDAQVEIAIRENAKQLYAE-RLKLVGRDINVENLVDLRKSQLSFKLSDE</Hsp_qseq>
+              <Hsp_hseq>DYASFMLLDKTYSEITDHWMSMKIQSRNKQDYASLQFKFKPRAFKLESIIDLDISALGKTLANQ</Hsp_hseq>
+              <Hsp_midline>D +SF+L  K   ++TD  + + I+   KQ YA  + K   R   +E+++DL  S L   L+++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|20184</Hit_id>
+          <Hit_def>@Prunus_persica@_ppa000702m|PACid:17660754 </Hit_def>
+          <Hit_accession>20184</Hit_accession>
+          <Hit_len>1029</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>8.67854</Hsp_evalue>
+              <Hsp_query-from>96</Hsp_query-from>
+              <Hsp_query-to>210</Hsp_query-to>
+              <Hsp_hit-from>158</Hsp_hit-from>
+              <Hsp_hit-to>262</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>28</Hsp_identity>
+              <Hsp_positive>51</Hsp_positive>
+              <Hsp_gaps>10</Hsp_gaps>
+              <Hsp_align-len>115</Hsp_align-len>
+              <Hsp_qseq>SAVVLAASLATGYGLGLRLAGSRNIAFGGAAVAGAAGGAVVYALNSAVPEVAAISLHNYVAEFEDPASVTKDDVEKIADRYGVNKGDEAFQAEICDIYCRYVTSVLPTEGQSLKG</Hsp_qseq>
+              <Hsp_hseq>TIIILLGCAALSLGLGIKVHGLKE--------GWIDGGSILIAI-ILVISVSAVSNYRQNRQF-DKLSKVSDNVQIEAVRGGRRQQISIFDIVVGDVICLKIGDQVPADGLFLDG</Hsp_hseq>
+              <Hsp_midline>+ ++L    A   GLG+++ G +             GG+++ A+   V  V+A+S +    +F D  S   D+V+  A R G  +    F   + D+ C  +   +P +G  L G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>

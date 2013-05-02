@@ -52,6 +52,156 @@
             </Hsp>
           </Hit_hsps>
         </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|13077</Hit_id>
+          <Hit_def>@Arabidopsis_lyrata@_887909|PACid:16046824 </Hit_def>
+          <Hit_accession>13077</Hit_accession>
+          <Hit_len>806</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>687.952</Hsp_bit-score>
+              <Hsp_score>1774</Hsp_score>
+              <Hsp_evalue>0</Hsp_evalue>
+              <Hsp_query-from>237</Hsp_query-from>
+              <Hsp_query-to>668</Hsp_query-to>
+              <Hsp_hit-from>240</Hsp_hit-from>
+              <Hsp_hit-to>634</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>364</Hsp_identity>
+              <Hsp_positive>371</Hsp_positive>
+              <Hsp_gaps>67</Hsp_gaps>
+              <Hsp_align-len>447</Hsp_align-len>
+              <Hsp_qseq>IGRRIFRQRLETGEREGDAEQRR---------------AFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQVEIAIRENAKQLYAERLKLVGRDINVENLVDLRKSQLSFKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAAKSLASVVEELEKVLEFNNLLVSLKSHSEADQFARGVGPISLIGDESDFERRMDDLKLLYRAYVTDALSGGRLEENKLVAMSQLRNILGLGKREAEAISVDVTSKSYRKRLANAVSSGDLEAQDSKAKYLQKLCEELHFDAQKAGAIHEEIYRQKLQQCVTDGELSDDNVAALLRLRVMLCIPQQTVDTAHAEICGTIFEKVVRDAISSGVDGYDAETRKSVRKAAHGLRLSRETAMSIASKAVRRVFTNYIRRARAAENRTDSAKELKKMIAFNTLVVTEMVADIKGESSDKAPEEDPVQ</Hsp_qseq>
+              <Hsp_hseq>IGRRIFRQRLETGEREGDAEQRRKESISVITSCMLPVQAFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQ--------------------------------------------LAEDLFREHTRKVVVENISSALSILKSRTLAA--LASVVEELEKVLEFNNLLVSLKSHSEADQFACGVG------DESDFERRMDDLKLLYRAYVTDALSGGRIAENKLVAMSQLRNILGLGKREAEAISVDVTSKAYRKRLANAVSNGDLEAQDSKAKYLQKLCEELHFDAQMAGAIHEEIYRQKLQQCVIDGELSDDNVAALLRLRVMLCIPQQTVETAHAEICGTIFEKVVREAISSGVDGYDAETRKSVRKAAHGLRLSRETAMCIASKAVRMVFTNYIRRARAAENRTESAKELKKMIAFNTLVVTEMVTDIKGESSDKAPEEDPAE</Hsp_hseq>
+              <Hsp_midline>IGRRIFRQRLETGEREGDAEQRR               AFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQ                                            LAEDLFREHTRKVVVENISSALSILKSRT AA  LASVVEELEKVLEFNNLLVSLKSHSEADQFA GVG      DESDFERRMDDLKLLYRAYVTDALSGGR+ ENKLVAMSQLRNILGLGKREAEAISVDVTSK+YRKRLANAVS+GDLEAQDSKAKYLQKLCEELHFDAQ AGAIHEEIYRQKLQQCV DGELSDDNVAALLRLRVMLCIPQQTV+TAHAEICGTIFEKVVR+AISSGVDGYDAETRKSVRKAAHGLRLSRETAM IASKAVR VFTNYIRRARAAENRT+SAKELKKMIAFNTLVVTEMV DIKGESSDKAPEEDP +</Hsp_midline>
+            </Hsp>
+            <Hsp>
+              <Hsp_num>2</Hsp_num>
+              <Hsp_bit-score>40.0466</Hsp_bit-score>
+              <Hsp_score>92</Hsp_score>
+              <Hsp_evalue>0.00845805</Hsp_evalue>
+              <Hsp_query-from>173</Hsp_query-from>
+              <Hsp_query-to>390</Hsp_query-to>
+              <Hsp_hit-from>369</Hsp_hit-from>
+              <Hsp_hit-to>613</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>56</Hsp_identity>
+              <Hsp_positive>107</Hsp_positive>
+              <Hsp_gaps>47</Hsp_gaps>
+              <Hsp_align-len>255</Hsp_align-len>
+              <Hsp_qseq>ADRYGVNKGDEA-FQAEICDI---YCRYVTSVLPTEGQSLKGDEVAKIVKFKNALGIDEPDAAAMHMEIGRRIFRQRLETGEREGDAEQR-----------------------------RAFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQVEIAIRENAKQLYAERLKLV---GRD-INVENLVDLRKSQLSFKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAAKSLASVVEELEKVLEFNNLLVS</Hsp_qseq>
+              <Hsp_hseq>ADQFACGVGDESDFERRMDDLKLLYRAYVTDAL--SGGRIAENKLVAMSQLRNILGLGKREAEAISVDVTSKAYRKRLANAVSNGDLEAQDSKAKYLQKLCEELHFDAQMAGAIHEEIYRQKLQQCVIDGELSDDNVAALLRLRVMLCIPQQTVETAHAEICGTIFEKVVREAISSGVDGYDAETRKSVRKAAHGLRLSRETAMCIASKAVRMVFTNYI--------RRARAAENRTESAKELKKMIAFNTLVVT</Hsp_hseq>
+              <Hsp_midline>AD++    GDE+ F+  + D+   Y  YVT  L   G  +  +++  + + +N LG+ + +A A+ +++  + +R+RL      GD E +                             R  ++   +   +  D  + LL  + +L +    VE A  E    ++ + ++     G D  + E    +RK+    +LS E A  +  +  R V    I         R RAA++     +EL+K++ FN L+V+</Hsp_midline>
+            </Hsp>
+            <Hsp>
+              <Hsp_num>3</Hsp_num>
+              <Hsp_bit-score>30.8018</Hsp_bit-score>
+              <Hsp_score>68</Hsp_score>
+              <Hsp_evalue>4.94516</Hsp_evalue>
+              <Hsp_query-from>748</Hsp_query-from>
+              <Hsp_query-to>838</Hsp_query-to>
+              <Hsp_hit-from>457</Hsp_hit-from>
+              <Hsp_hit-to>543</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>23</Hsp_identity>
+              <Hsp_positive>40</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>91</Hsp_align-len>
+              <Hsp_qseq>DSEYLLLNQLGGILGLSSKEIVNIHVGLAEQAFRQQAEVILADGQLTKARVEQLDELQKQVGLPQPQAEKVIKNITTTKMANAIETAVNQG</Hsp_qseq>
+              <Hsp_hseq>DSKAKYLQKLCEELHFDAQMAGAIH----EEIYRQKLQQCVIDGELSDDNVAALLRLRVMLCIPQQTVETAHAEICGTIFEKVVREAISSG</Hsp_hseq>
+              <Hsp_midline>DS+   L +L   L   ++    IH    E+ +RQ+ +  + DG+L+   V  L  L+  + +PQ   E     I  T     +  A++ G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|738</Hit_id>
+          <Hit_def>@Arabidopsis_lyrata@_887896|PACid:16034485 </Hit_def>
+          <Hit_accession>738</Hit_accession>
+          <Hit_len>150</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>197.208</Hsp_bit-score>
+              <Hsp_score>500</Hsp_score>
+              <Hsp_evalue>1.18545e-57</Hsp_evalue>
+              <Hsp_query-from>237</Hsp_query-from>
+              <Hsp_query-to>368</Hsp_query-to>
+              <Hsp_hit-from>5</Hsp_hit-from>
+              <Hsp_hit-to>150</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>109</Hsp_identity>
+              <Hsp_positive>114</Hsp_positive>
+              <Hsp_gaps>16</Hsp_gaps>
+              <Hsp_align-len>147</Hsp_align-len>
+              <Hsp_qseq>IGRRIFRQRLETGEREGDAEQRR---------------AFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQVEIAIRENAKQLYAERLKLVGRDINVENLVDLRKSQLSFKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAA</Hsp_qseq>
+              <Hsp_hseq>IGRRIFRQRLETGEREGDAEQRRKESISVITSCMLPVQAFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQL-FFINLMHGNLHGYVSKHVLTAINVENLVDLKKAQLSFKLSDELAEDLFREHTRRVVVENISSALSILKSRTLAA</Hsp_hseq>
+              <Hsp_midline>IGRRIFRQRLETGEREGDAEQRR               AFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQ+   I      L+    K V   INVENLVDL+K+QLSFKLSDELAEDLFREHTR+VVVENISSALSILKSRT AA</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3394</Hit_id>
+          <Hit_def>@Arabidopsis_lyrata@_486060|PACid:16037141 </Hit_def>
+          <Hit_accession>3394</Hit_accession>
+          <Hit_len>289</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.187</Hsp_bit-score>
+              <Hsp_score>69</Hsp_score>
+              <Hsp_evalue>2.76407</Hsp_evalue>
+              <Hsp_query-from>817</Hsp_query-from>
+              <Hsp_query-to>921</Hsp_query-to>
+              <Hsp_hit-from>81</Hsp_hit-from>
+              <Hsp_hit-to>189</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>33</Hsp_identity>
+              <Hsp_positive>55</Hsp_positive>
+              <Hsp_gaps>34</Hsp_gaps>
+              <Hsp_align-len>124</Hsp_align-len>
+              <Hsp_qseq>KVIKNITTTKMANAIETAVNQ----GRLNI-----KQIRELKEANVSLDSMIAVSLREKLFKKTVSDIFSSGTGEFDETEVYQTIPSDLSIDV----------EKAKRVVHDLAQSRLSNSLVQ</Hsp_qseq>
+              <Hsp_hseq>KCYKKVDTNEAASCLERAVNIFCEIGRLNMAARYYKEIAEYYESDQKFEQAIAY------FEKA---------AEFFQNEEVTTSANQCNLKVAQYAAQLEQYEKAIKIYEDIARHSLNNNLLK</Hsp_hseq>
+              <Hsp_midline>K  K + T + A+ +E AVN     GRLN+     K+I E  E++   +  IA       F+K           EF + E   T  +  ++ V          EKA ++  D+A+  L+N+L++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|6827</Hit_id>
+          <Hit_def>@Arabidopsis_lyrata@_478548|PACid:16040574 </Hit_def>
+          <Hit_accession>6827</Hit_accession>
+          <Hit_len>1843</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.8018</Hsp_bit-score>
+              <Hsp_score>68</Hsp_score>
+              <Hsp_evalue>5.5249</Hsp_evalue>
+              <Hsp_query-from>917</Hsp_query-from>
+              <Hsp_query-to>976</Hsp_query-to>
+              <Hsp_hit-from>303</Hsp_hit-from>
+              <Hsp_hit-to>370</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>22</Hsp_identity>
+              <Hsp_positive>31</Hsp_positive>
+              <Hsp_gaps>8</Hsp_gaps>
+              <Hsp_align-len>68</Hsp_align-len>
+              <Hsp_qseq>NSLVQAVALLRQRNSKGVVLSLNDLLACDKAVPAEPMSWEVSEELSD--------LYAIYSKSDPKPA</Hsp_qseq>
+              <Hsp_hseq>NKMVNARILFIDPSSRAVGLTLNPHLVCNKAPPLHVFSGDIFDEAKVVRIDKSGLLLELPSKPVPNPA</Hsp_hseq>
+              <Hsp_midline>N +V A  L    +S+ V L+LN  L C+KA P    S ++ +E           L  + SK  P PA</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
       </Iteration_hits>
       <Iteration_stat>
         <Statistics>
