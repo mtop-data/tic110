@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/other_plant_genomes/all/Cyanidioschyzon_merolae_cds</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</BlastOutput_query-def>
+  <BlastOutput_query-len>806</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</Iteration_query-def>
+      <Iteration_query-len>806</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3441</Hit_id>
+          <Hit_def>@Cyanidioschyzon_merolae@_gnl|CMER|CMQ342C similar to chloroplast inner membrane protein Tic110</Hit_def>
+          <Hit_accession>3441</Hit_accession>
+          <Hit_len>1218</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>58.9214</Hsp_bit-score>
+              <Hsp_score>141</Hsp_score>
+              <Hsp_evalue>2.31878e-09</Hsp_evalue>
+              <Hsp_query-from>380</Hsp_query-from>
+              <Hsp_query-to>607</Hsp_query-to>
+              <Hsp_hit-from>657</Hsp_hit-from>
+              <Hsp_hit-to>869</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>58</Hsp_identity>
+              <Hsp_positive>104</Hsp_positive>
+              <Hsp_gaps>17</Hsp_gaps>
+              <Hsp_align-len>229</Hsp_align-len>
+              <Hsp_qseq>SDFERRMDDLKLLYRAYVTDALSGGRIAENKLVAMSQLRNILGLGKREAEAISVDVTSKAYRKRLANAVSNGDLEAQDSKAKYLQKLCEELHFDAQMAGAIHEEIYRQKLQQCVIDGEL-SDDNVAALLRLRVMLCIPQQTVETAHAEICGTIFEKVVREAISSGVDGYDAETRKSVRKAAHGLRLSRETAMCIASKAVRMVFTNYIRRARAAENRTESAKELKKMIAF</Hsp_qseq>
+              <Hsp_hseq>ADLERQQ-----LYRVYLAKCLEDRMIDAQEGRNLDDLRAVLRISENEAAQAYNRAAGPVYREAVLEVMANRS-EFTDADIQSLNQIAGDLHIPAKVAHDIRMELYRERLEASTRDNRVPSEEESSQLARLRELLQLDSEALAALHASVCAGTYAQSVDECM--GSNGIIPEPYRA------GLERLRQR-LCLDERRARELFLQVARR-RMAGYVQRAIKLLQKKQSF</Hsp_hseq>
+              <Hsp_midline>+D ER+      LYR Y+   L    I   +   +  LR +L + + EA           YR+ +   ++N   E  D+  + L ++  +LH  A++A  I  E+YR++L+    D  + S++  + L RLR +L +  + +   HA +C   + + V E +  G +G   E  ++      GL   R+  +C+  +  R +F    RR R A     + K L+K  +F</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1343</Hit_id>
+          <Hit_def>@Cyanidioschyzon_merolae@_gnl|CMER|CMI213C calnexin</Hit_def>
+          <Hit_accession>1343</Hit_accession>
+          <Hit_len>660</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>57.3806</Hsp_bit-score>
+              <Hsp_score>137</Hsp_score>
+              <Hsp_evalue>5.81718e-09</Hsp_evalue>
+              <Hsp_query-from>662</Hsp_query-from>
+              <Hsp_query-to>749</Hsp_query-to>
+              <Hsp_hit-from>388</Hsp_hit-from>
+              <Hsp_hit-to>483</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>37</Hsp_identity>
+              <Hsp_positive>52</Hsp_positive>
+              <Hsp_gaps>18</Hsp_gaps>
+              <Hsp_align-len>101</Hsp_align-len>
+              <Hsp_qseq>IKNPNYKGKWKNPWIDNPEFED--------DPDLY-----VLKPIKYAGIEVWQVKAGSIFDNILICDDPEYARSIVDDYFAQHRESEKELFAEAEKEKLE</Hsp_qseq>
+              <Hsp_hseq>IPNPSYRGKWKAPLIPNPAYKGQWQPRKIPNPEYYRVEKIQLQPVTAVGIEIWTMDQGIAFDNILFLSGSEAAQ--VADEFAVQTWAKK---VKVEKEREE</Hsp_hseq>
+              <Hsp_midline>I NP+Y+GKWK P I NP ++         +P+ Y      L+P+   GIE+W +  G  FDNIL     E A+  V D FA    ++K    + EKE+ E</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4432</Hit_id>
+          <Hit_def>@Cyanidioschyzon_merolae@_gnl|CMER|CMT529C similar to DNA repair protein Rad17-like protein</Hit_def>
+          <Hit_accession>4432</Hit_accession>
+          <Hit_len>769</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.4166</Hsp_bit-score>
+              <Hsp_score>67</Hsp_score>
+              <Hsp_evalue>1.14954</Hsp_evalue>
+              <Hsp_query-from>374</Hsp_query-from>
+              <Hsp_query-to>466</Hsp_query-to>
+              <Hsp_hit-from>504</Hsp_hit-from>
+              <Hsp_hit-to>596</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>25</Hsp_identity>
+              <Hsp_positive>43</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>95</Hsp_align-len>
+              <Hsp_qseq>CGV--GDESDFERRMDDLKLLYRAYVTDALSGGRIAENKLVAMSQLRNILGLGKREAEAISVDVTSKAYRKRLANAVSNGDLEAQDSKAKYLQKL</Hsp_qseq>
+              <Hsp_hseq>CGVRCANRCHAPARFRPIRLQPRRYGTHAIRPSSTLYDENV--NDYRDATGLGRRAWEPAAFTMRSKATQLPCWTSPANDTLESAESTALFLDPI</Hsp_hseq>
+              <Hsp_midline>CGV   +      R   ++L  R Y T A+       ++ V  +  R+  GLG+R  E  +  + SKA +     + +N  LE+ +S A +L  +</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3363</Hit_id>
+          <Hit_def>@Cyanidioschyzon_merolae@_gnl|CMER|CMQ236C chromosome assembly complex Condensin II, subunit D3</Hit_def>
+          <Hit_accession>3363</Hit_accession>
+          <Hit_len>1620</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.0314</Hsp_bit-score>
+              <Hsp_score>66</Hsp_score>
+              <Hsp_evalue>1.75053</Hsp_evalue>
+              <Hsp_query-from>712</Hsp_query-from>
+              <Hsp_query-to>784</Hsp_query-to>
+              <Hsp_hit-from>1398</Hsp_hit-from>
+              <Hsp_hit-to>1470</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>18</Hsp_identity>
+              <Hsp_positive>30</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>73</Hsp_align-len>
+              <Hsp_qseq>ILICDDPEYARSIVDDYFAQHRESEKELFAEAEKEKLEKMSYEHGHTNRCLQEARKAREEGERRRKERDHRYG</Hsp_qseq>
+              <Hsp_hseq>VLLRDDPVFAREIAHDLHQETAALERQRASSSARVTLSTQVAKAGHTPRGTPGLRPYPDSNSAARPRRRGSFG</Hsp_hseq>
+              <Hsp_midline>+L+ DDP +AR I  D   +    E++  + + +  L     + GHT R     R   +     R  R   +G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>5014</Statistics_db-num>
+          <Statistics_db-len>2521725</Statistics_db-len>
+          <Statistics_hsp-len>97</Statistics_hsp-len>
+          <Statistics_eff-space>1443075203</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/other_plant_genomes/all/Marchantia_polymorpha_EST_aa</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</BlastOutput_query-def>
+  <BlastOutput_query-len>806</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Arabidopsis_lyrata_gnl|BL_ORD_ID|13077 _887909|PACid:16046824</Iteration_query-def>
+      <Iteration_query-len>806</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|2250</Hit_id>
+          <Hit_def>@Marchathia_polymorpha@T20061:3360 K08057 calreticulin (A)</Hit_def>
+          <Hit_accession>2250</Hit_accession>
+          <Hit_len>142</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>114.39</Hsp_bit-score>
+              <Hsp_score>285</Hsp_score>
+              <Hsp_evalue>5.93244e-30</Hsp_evalue>
+              <Hsp_query-from>649</Hsp_query-from>
+              <Hsp_query-to>740</Hsp_query-to>
+              <Hsp_hit-from>48</Hsp_hit-from>
+              <Hsp_hit-to>142</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>53</Hsp_identity>
+              <Hsp_positive>71</Hsp_positive>
+              <Hsp_gaps>3</Hsp_gaps>
+              <Hsp_align-len>95</Hsp_align-len>
+              <Hsp_qseq>SQILRSKVLGK---QRIKNPNYKGKWKNPWIDNPEFEDDPDLYVLKPIKYAGIEVWQVKAGSIFDNILICDDPEYARSIVDDYFAQHRESEKELF</Hsp_qseq>
+              <Hsp_hseq>STIPKPQVQGTMEAQENKESSYKGKWKIPWVDNPEFEDDPDLYVFAPLQYFGIELWQVKAGSLFDNILITDDPDYAKQVAEETTLKNKDAELESF</Hsp_hseq>
+              <Hsp_midline>S I + +V G    Q  K  +YKGKWK PW+DNPEFEDDPDLYV  P++Y GIE+WQVKAGS+FDNILI DDP+YA+ + ++   +++++E E F</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3920</Hit_id>
+          <Hit_def>@Marchathia_polymorpha@T20061:5173  (A)</Hit_def>
+          <Hit_accession>3920</Hit_accession>
+          <Hit_len>210</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.8758</Hsp_bit-score>
+              <Hsp_score>63</Hsp_score>
+              <Hsp_evalue>0.885691</Hsp_evalue>
+              <Hsp_query-from>608</Hsp_query-from>
+              <Hsp_query-to>645</Hsp_query-to>
+              <Hsp_hit-from>90</Hsp_hit-from>
+              <Hsp_hit-to>127</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>11</Hsp_identity>
+              <Hsp_positive>21</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>38</Hsp_align-len>
+              <Hsp_qseq>NTLVVTEMVTDIKGESSDKAPEEDPAEMVAKEKTVSGN</Hsp_qseq>
+              <Hsp_hseq>NSLILLKSFLDSPGLATNTIPNFDPASLVTPEQILMAN</Hsp_hseq>
+              <Hsp_midline>N+L++ +   D  G +++  P  DPA +V  E+ +  N</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|6313</Hit_id>
+          <Hit_def>@Marchathia_polymorpha@T20061:7829 K03846 alpha-1,2-mannosyltransferase [EC:2.4.1.259 2.4.1.261] (A)</Hit_def>
+          <Hit_accession>6313</Hit_accession>
+          <Hit_len>163</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>26.5646</Hsp_bit-score>
+              <Hsp_score>57</Hsp_score>
+              <Hsp_evalue>4.35459</Hsp_evalue>
+              <Hsp_query-from>409</Hsp_query-from>
+              <Hsp_query-to>445</Hsp_query-to>
+              <Hsp_hit-from>120</Hsp_hit-from>
+              <Hsp_hit-to>156</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>16</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>37</Hsp_align-len>
+              <Hsp_qseq>NKLVAMSQLRNILGLGKREAEAISVDVTSKAYRKRLA</Hsp_qseq>
+              <Hsp_hseq>GKVQAFYFLRFILGLMSASTEASLVAATSSLFGRRLA</Hsp_hseq>
+              <Hsp_midline> K+ A   LR ILGL     EA  V  TS  + +RLA</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|385</Hit_id>
+          <Hit_def>@Marchathia_polymorpha@T20061:400  (A)</Hit_def>
+          <Hit_accession>385</Hit_accession>
+          <Hit_len>225</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>26.5646</Hsp_bit-score>
+              <Hsp_score>57</Hsp_score>
+              <Hsp_evalue>4.63248</Hsp_evalue>
+              <Hsp_query-from>108</Hsp_query-from>
+              <Hsp_query-to>150</Hsp_query-to>
+              <Hsp_hit-from>23</Hsp_hit-from>
+              <Hsp_hit-to>72</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>18</Hsp_identity>
+              <Hsp_positive>23</Hsp_positive>
+              <Hsp_gaps>7</Hsp_gaps>
+              <Hsp_align-len>50</Hsp_align-len>
+              <Hsp_qseq>SHPEDAAVFLDLVSEIGYNTIFP----FPLKEAASHLEDDDGK---PLWE</Hsp_qseq>
+              <Hsp_hseq>SDPLHYAAFRDMLQEIGYNGGVPITEEFFVKYISGRFNPDIGRFLFPEWE</Hsp_hseq>
+              <Hsp_midline>S P   A F D++ EIGYN   P    F +K  +     D G+   P WE</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4134</Hit_id>
+          <Hit_def>@Marchathia_polymorpha@T20061:5407  (A)</Hit_def>
+          <Hit_accession>4134</Hit_accession>
+          <Hit_len>145</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>25.409</Hsp_bit-score>
+              <Hsp_score>54</Hsp_score>
+              <Hsp_evalue>8.73733</Hsp_evalue>
+              <Hsp_query-from>316</Hsp_query-from>
+              <Hsp_query-to>342</Hsp_query-to>
+              <Hsp_hit-from>73</Hsp_hit-from>
+              <Hsp_hit-to>99</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>16</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>27</Hsp_align-len>
+              <Hsp_qseq>FREHTRKVVVENISSALSILKSRTLAA</Hsp_qseq>
+              <Hsp_hseq>LEEHTLKEVLEESGSALSVKIPSTLAA</Hsp_hseq>
+              <Hsp_midline>  EHT K V+E   SALS+    TLAA</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>7653</Statistics_db-num>
+          <Statistics_db-len>1035185</Statistics_db-len>
+          <Statistics_hsp-len>85</Statistics_hsp-len>
+          <Statistics_eff-space>277354280</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
