@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/other_plant_genomes/all/Amborella_trichopoda</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|332189936|gb|AEE28057.1| translocon at the inner envelope membrane of chloroplasts 110 [Arabidopsis thaliana]</BlastOutput_query-def>
+  <BlastOutput_query-len>1016</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>gi|332189936|gb|AEE28057.1| translocon at the inner envelope membrane of chloroplasts 110 [Arabidopsis thaliana]</Iteration_query-def>
+      <Iteration_query-len>1016</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4205</Hit_id>
+          <Hit_def>@Amborella_trichopoda@ evm_15.model.AmTr_v1.0_scaffold00017.44 EVM_15_evm_15.TU.AmTr_v1.0_scaffold00017.44   AmTr_v1.0_scaffold00017:1833388-1861382(+)</Hit_def>
+          <Hit_accession>4205</Hit_accession>
+          <Hit_len>944</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>1207.2</Hsp_bit-score>
+              <Hsp_score>3122</Hsp_score>
+              <Hsp_evalue>0</Hsp_evalue>
+              <Hsp_query-from>70</Hsp_query-from>
+              <Hsp_query-to>1014</Hsp_query-to>
+              <Hsp_hit-from>10</Hsp_hit-from>
+              <Hsp_hit-to>944</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>620</Hsp_identity>
+              <Hsp_positive>780</Hsp_positive>
+              <Hsp_gaps>28</Hsp_gaps>
+              <Hsp_align-len>954</Hsp_align-len>
+              <Hsp_qseq>IHGNKKELTGLQPIVEKMTPPVRLATSAVVLAASLATGYGLGLRLAGSRNIAFGGAAVAGAAGGAVVYALNSAVPEVAAISLHNYVAEFEDPASVTKDDVEKIADRYGVNKGDEAFQAEICDIYCRYVTSVLPTEGQSLKGDEVAKIVKFKNALGIDEPDAAAMHMEIGRRIFRQRLETGEREGDAEQRRAFMRLVYVSALVFGDASSFLLPWKRVLKVTDAQVEIAIRENAKQLYAERLKLVGRDINVENLVDLRKSQLSFKLSDELAEDLFREHTRKVVVENISSALSILKSRTRAAKSLASVVEELEKVLEFNNLLVSLKSHSEADQFARGVGPISLIGDESDFERRMDDLKLLYRAYVTDALSGGRLEENKLVAMSQLRNILGLGKREAEAISVDVTSKSYRKRLANAVSSGDLEAQDSKAKYLQKLCEELHFDAQKAGAIHEEIYRQKLQQCVTDGELSDDNVAALLRLRVMLCIPQQTVDTAHAEICGTIFEKVVRDAISSGVDGYDAETRKSVRKAAHGLRLSRETAMSIASKAVRRVFTNYIRRARAAENRTDSAKELKKMIAFNTLVVTEMVADIKGESSDKAPEEDPVQ------EKEEDDEDEEWGSLESLRKTRPDKELAEKMGKPGQTEITLKDDLPDRDRIDLYKTYLLYCVTGEVTRIPFGAQITTKRDDSEYLLLNQLGGILGLSSKEIVNIHVGLAEQAFRQQAEVILADGQLTKARVEQLDELQKQVGLPQPQAEKVIKNITTTKMANAIETAVNQGRLNIKQIRELKEANVSLDSMIAVSLREKLFKKTVSDIFSSGTGEFDETEVYQTIPSDLSIDVEKAKRVVHDLAQSRLSNSLVQAVALLRQRNSKGVVLSLNDLLACDKAVPAE-PMSWEVSEELSDLYAIYSKSDPKPAPEKVLRLQYLLGIDDSTATALREM--EDGALSSAAEEGNF</Hsp_qseq>
+              <Hsp_hseq>IFGGEKEISGVQKLVDSMPSSVRYVSSVVIVAGALASGYGLGMKVKGTRAAAIGGAVALGAAGGAVAYALNSCVPDVAAANLHNMVVRSGDP-------------RYGVSRQNEAFNAELCDLYSRFVSSVLPPGGENLRGDEVDSIIQFKNSLGIEDPDAASVHMEIGRHIFRQRLETGDRDADIEQRRAFQKLVYVSTLVFGEASTFLLPWKRVFKITDAQVEVAIRDNAQRLYALKLNSVGRDVDAMQLIDLREAQLQYRLSDEVAADMFREHARKLVEENITIALDVLKSRSRT-KGLTKVVEELEKIIAFNKLLVSLSNHPEVARFAQGIGPVSLLGGEYDSDRKIDDLKLLYRAFVTESYSSGRMEDKKLEDLNQLKIIFGLGKREAETMLLEVASKVYRKRLAQAVSSGDLDIATSKAAYLQNLCEELHFDPQKASEIHEDIYKQKLQQAVADGDLSDDDVASLLRLRVMLCIPQQTVDAAHADICGRLFEKAVRDAIAAGVEGYDADVRRTVRKASQGLRLTTDTAMAIASKAVRAMFTNYIKRSRAAGNRTEAAKELKKMIAFNTLVVTQLVSDIKGESP--APP-DPVKTEPEPEPKPIEDEEDEWESLQTLRKTRPNKEVEEKLAKPGQTEITLKDDLSDRDKEDLYRTYLLYCISGEVTVIPFGARITTKKDNSEYQLLNQLGGILGMTSKEIVEVHRNLAEQAFKQQAQVILADGQITKARLEQLNEVQKQVGLPSESAQKVIKSITTTKMAAAIESAVSQGRITIQQVRELREANVEIDNIISEGLRENLFKKTVDEMFSSGTGEFDEEEVYTKIPSDLNIDKDKAKGVVFDLAKNRLSNSLVQAVSLLRQRNRTGAVSSLNDMLACDKAVSAEQPLSWPVPEELADLYFVYFKSD--PPHEKLSRMQFLLGISDSTASALRERGDYDDDLGNEVDEFNF</Hsp_hseq>
+              <Hsp_midline>I G +KE++G+Q +V+ M   VR  +S V++A +LA+GYGLG+++ G+R  A GGA   GAAGGAV YALNS VP+VAA +LHN V    DP             RYGV++ +EAF AE+CD+Y R+V+SVLP  G++L+GDEV  I++FKN+LGI++PDAA++HMEIGR IFRQRLETG+R+ D EQRRAF +LVYVS LVFG+AS+FLLPWKRV K+TDAQVE+AIR+NA++LYA +L  VGRD++   L+DLR++QL ++LSDE+A D+FREH RK+V ENI+ AL +LKSR+R  K L  VVEELEK++ FN LLVSL +H E  +FA+G+GP+SL+G E D +R++DDLKLLYRA+VT++ S GR+E+ KL  ++QL+ I GLGKREAE + ++V SK YRKRLA AVSSGDL+   SKA YLQ LCEELHFD QKA  IHE+IY+QKLQQ V DG+LSDD+VA+LLRLRVMLCIPQQTVD AHA+ICG +FEK VRDAI++GV+GYDA+ R++VRKA+ GLRL+ +TAM+IASKAVR +FTNYI+R+RAA NRT++AKELKKMIAFNTLVVT++V+DIKGES   AP  DPV+       K  +DE++EW SL++LRKTRP+KE+ EK+ KPGQTEITLKDDL DRD+ DLY+TYLLYC++GEVT IPFGA+ITTK+D+SEY LLNQLGGILG++SKEIV +H  LAEQAF+QQA+VILADGQ+TKAR+EQL+E+QKQVGLP   A+KVIK+ITTTKMA AIE+AV+QGR+ I+Q+REL+EANV +D++I+  LRE LFKKTV ++FSSGTGEFDE EVY  IPSDL+ID +KAK VV DLA++RLSNSLVQAV+LLRQRN  G V SLND+LACDKAV AE P+SW V EEL+DLY +Y KSD  P  EK+ R+Q+LLGI DSTA+ALRE    D  L +  +E NF</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|7375</Hit_id>
+          <Hit_def>@Amborella_trichopoda@ evm_15.model.AmTr_v1.0_scaffold00034.48 EVM_15_evm_15.TU.AmTr_v1.0_scaffold00034.48   AmTr_v1.0_scaffold00034:4890582-4891264(-)</Hit_def>
+          <Hit_accession>7375</Hit_accession>
+          <Hit_len>226</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.187</Hsp_bit-score>
+              <Hsp_score>69</Hsp_score>
+              <Hsp_evalue>1.31379</Hsp_evalue>
+              <Hsp_query-from>7</Hsp_query-from>
+              <Hsp_query-to>35</Hsp_query-to>
+              <Hsp_hit-from>76</Hsp_hit-from>
+              <Hsp_hit-to>102</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>2</Hsp_gaps>
+              <Hsp_align-len>29</Hsp_align-len>
+              <Hsp_qseq>TAINAPISPSPRSPLLSHFLPTLPHRFSK</Hsp_qseq>
+              <Hsp_hseq>SGLRAPSGSAPRSPSVSHTVP--PHTFSR</Hsp_hseq>
+              <Hsp_midline>+ + AP   +PRSP +SH +P  PH FS+</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|10167</Hit_id>
+          <Hit_def>@Amborella_trichopoda@ evm_15.model.AmTr_v1.0_scaffold00056.110 EVM_15_evm_15.TU.AmTr_v1.0_scaffold00056.110   AmTr_v1.0_scaffold00056:2458362-2459833(+)</Hit_def>
+          <Hit_accession>10167</Hit_accession>
+          <Hit_len>136</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.4906</Hsp_bit-score>
+              <Hsp_score>62</Hsp_score>
+              <Hsp_evalue>5.87688</Hsp_evalue>
+              <Hsp_query-from>124</Hsp_query-from>
+              <Hsp_query-to>204</Hsp_query-to>
+              <Hsp_hit-from>22</Hsp_hit-from>
+              <Hsp_hit-to>100</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>19</Hsp_identity>
+              <Hsp_positive>37</Hsp_positive>
+              <Hsp_gaps>2</Hsp_gaps>
+              <Hsp_align-len>81</Hsp_align-len>
+              <Hsp_qseq>GAAVAGAAGGAVVYALNSAVPEVAAISLHNYVAEFEDPASVTKDDVEKIADRYGVNKGDEAFQAEICDIYCRYVTSVLPTE</Hsp_qseq>
+              <Hsp_hseq>AAAILGLDGN--VWAQSQSFPELKPDEIKGIINDFDEPGSLAPTGLYLGAAKYMVIQGEPGAVIRGKKVMTLYLTHNMPNE</Hsp_hseq>
+              <Hsp_midline> AA+ G  G   V+A + + PE+    +   + +F++P S+    +   A +Y V +G+         +   Y+T  +P E</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|14290</Hit_id>
+          <Hit_def>@Amborella_trichopoda@ evm_15.model.AmTr_v1.0_scaffold00095.20 EVM_15_evm_15.TU.AmTr_v1.0_scaffold00095.20   AmTr_v1.0_scaffold00095:447035-463994(+)</Hit_def>
+          <Hit_accession>14290</Hit_accession>
+          <Hit_len>860</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.6462</Hsp_bit-score>
+              <Hsp_score>65</Hsp_score>
+              <Hsp_evalue>6.5897</Hsp_evalue>
+              <Hsp_query-from>971</Hsp_query-from>
+              <Hsp_query-to>1015</Hsp_query-to>
+              <Hsp_hit-from>743</Hsp_hit-from>
+              <Hsp_hit-to>791</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>18</Hsp_identity>
+              <Hsp_positive>24</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>49</Hsp_align-len>
+              <Hsp_qseq>SDPKPAPEKVLRLQYLLGIDDSTATALR----EMEDGALSSAAEEGNFV</Hsp_qseq>
+              <Hsp_hseq>SDPSLEPLQINILDYLLGVGDLTGELMRLAIGRISDGELAYAERICTFV</Hsp_hseq>
+              <Hsp_midline>SDP   P ++  L YLLG+ D T   +R     + DG L+ A     FV</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|5652</Hit_id>
+          <Hit_def>@Amborella_trichopoda@ evm_15.model.AmTr_v1.0_scaffold00024.111 EVM_15_evm_15.TU.AmTr_v1.0_scaffold00024.111   AmTr_v1.0_scaffold00024:2894181-2906781(-)</Hit_def>
+          <Hit_accession>5652</Hit_accession>
+          <Hit_len>733</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>29.261</Hsp_bit-score>
+              <Hsp_score>64</Hsp_score>
+              <Hsp_evalue>8.6814</Hsp_evalue>
+              <Hsp_query-from>96</Hsp_query-from>
+              <Hsp_query-to>150</Hsp_query-to>
+              <Hsp_hit-from>395</Hsp_hit-from>
+              <Hsp_hit-to>447</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>23</Hsp_identity>
+              <Hsp_positive>30</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>56</Hsp_align-len>
+              <Hsp_qseq>SAVVLAASLATGYGL-GLRLAGSRNIAFGGAAVAGAAGGAVVYALNSAVPEVAAIS</Hsp_qseq>
+              <Hsp_hseq>GAKVVATALCKGSGLVGGLYAPSLMI---GAAVGAVFGGSAAEVINSAIPGNAAVA</Hsp_hseq>
+              <Hsp_midline> A V+A +L  G GL G   A S  I   GAAV    GG+    +NSA+P  AA++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>19637</Statistics_db-num>
+          <Statistics_db-len>7064113</Statistics_db-len>
+          <Statistics_hsp-len>105</Statistics_hsp-len>
+          <Statistics_eff-space>4557029708</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
